@@ -10,7 +10,7 @@ But : démontrer un résonateur de Helmholtz (modèle d'impédance) avec widgets
 Cliquez sur le badge Binder ci-dessous pour ouvrir l'interface interactive (pas besoin d'installer Python) :
 
 1) Pour *Helmholtz_Interactive_impedance1.ipynb*: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/Helmholtz_Interactiver l'impédance1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/Helmholtz_Interactiv_impedance1.ipynb)
 
 2) Pour *TMM_Interactive.ipynb*: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/TMM_Interactive.ipynb)
