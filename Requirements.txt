@@ -1,8 +1,6 @@
 voila
 ipywidgets
 ipython
-# notebook
 numpy
 matplotlib
-# scipy
-# pandas
+
