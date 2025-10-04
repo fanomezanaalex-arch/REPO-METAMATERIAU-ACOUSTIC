@@ -22,7 +22,7 @@ Cliquez sur le badge Binder ci-dessous pour ouvrir l'interface interactive (pas 
 - `Helmholtz_Interactive_impedance1.ipynb` — notebook Voilà-ready.
 - `TMM_Interactive.ipynb` — notebook Voilà-ready.
 - `requirements.txt` — dépendances Python (utilisées par Binder).
-- `data/` — exemples de données (chemins relatifs dans le notebook).
+- `IMAGES/` — images utilisés dans notebook.
 
 ## Notes importantes pour l'auteur
 1. Exécuter `Kernel → Restart and Run All` avant de committer pour s'assurer que le notebook s'exécute de zéro.  
