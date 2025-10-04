@@ -15,9 +15,6 @@ Cliquez sur le badge Binder ci-dessous pour ouvrir l'interface interactive (pas 
 2) Pour *TMM_Interactive.ipynb*: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/TMM_Interactive.ipynb)
 
-
-> Remplace `<GITHUB_USERNAME>` et `<REPO_NAME>` par tes valeurs.
-
 ## Fichiers dans ce dépôt
 - `Helmholtz_Interactive_impedance1.ipynb` — notebook Voilà-ready.
 - `TMM_Interactive.ipynb` — notebook Voilà-ready.
