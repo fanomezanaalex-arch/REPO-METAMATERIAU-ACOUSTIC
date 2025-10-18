@@ -13,14 +13,23 @@ Cliquez sur le badge Binder ci-dessous pour ouvrir l'interface interactive (pas 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/Helmholtz_Interactiv_impedance1.ipynb)
 
 
-
-
-3) Pour *TMM_Interactive.ipynb*: 
+2) Pour *TMM_Interactive.ipynb*: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/TMM_Interactive.ipynb)
+
+
+3) Pour *Cubical_cavities_necks_ext.ipynb*: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/Cubical_cavities_necks_ext.ipynb)
+
+
+4) Pour *Honeycomb_cavities_necks_ext.ipynb*: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanomezanaalex-arch/REPO-METAMATERIAU-ACOUSTIC/main?urlpath=voila/render/Honeycomb_cavities_necks_ext.ipynb)
+
 
 ## Fichiers dans ce dépôt
 - `Helmholtz_Interactive_impedance1.ipynb` — notebook Voilà-ready.
 - `TMM_Interactive.ipynb` — notebook Voilà-ready.
+- `Cubical_cavities_necks_ext.ipynb` — notebook Voilà-ready.
+- `Honeycomb_cavities_necks_ext.ipynb` — notebook Voilà-ready.
 - `requirements.txt` — dépendances Python (utilisées par Binder).
 - `IMAGES/` — images utilisés dans notebook.
 
